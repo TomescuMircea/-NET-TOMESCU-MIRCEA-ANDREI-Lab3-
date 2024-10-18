@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\Semestrul 5\\.NET\\Curs3\u0026Lab3\\BookManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA2002-1307-4166-ABE0-43AABEA57157}|Domain\\Domain.csproj|d:\\facultate\\semestrul 5\\.net\\curs3\u0026lab3\\bookmanagement\\domain\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CA2002-1307-4166-ABE0-43AABEA57157}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C5CA01-F6F4-46B0-B5B6-BB7FF14097D5}|Infrastructure\\Infrastructure.csproj|d:\\facultate\\semestrul 5\\.net\\curs3\u0026lab3\\bookmanagement\\infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C5CA01-F6F4-46B0-B5B6-BB7FF14097D5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 312,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Facultate\\Semestrul 5\\.NET\\Curs3\u0026Lab3\\BookManagement\\Domain\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IBookRepository.cs",
+              "ToolTip": "D:\\Facultate\\Semestrul 5\\.NET\\Curs3\u0026Lab3\\BookManagement\\Domain\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:54:53.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Facultate\\Semestrul 5\\.NET\\Curs3\u0026Lab3\\BookManagement\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\Facultate\\Semestrul 5\\.NET\\Curs3\u0026Lab3\\BookManagement\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:53:57.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

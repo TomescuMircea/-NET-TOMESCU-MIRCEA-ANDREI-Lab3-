@@ -1,0 +1,356 @@
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\appsettings.Development.json
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\appsettings.json
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.exe
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.deps.json
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.runtimeconfig.json
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.pdb
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.csproj.AssemblyReference.cache
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.AssemblyInfoInputs.cache
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.AssemblyInfo.cs
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.csproj.CoreCompileInputs.cache
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.build.json
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.development.json
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets\msbuild.BookManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.BookManagement.props
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookManagement.props
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookManagement.props
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\scopedcss\bundle\BookManagement.styles.css
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\BookMana.AEF0CC0B.Up2Date
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\refint\BookManagement.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.pdb
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.genruntimeconfig.cache
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\obj\Debug\net8.0\ref\BookManagement.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Humanizer.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\MediatR.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Npgsql.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\System.CodeDom.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Application.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Domain.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Infrastructure.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Application.pdb
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Domain.pdb
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\BookManagement\bin\Debug\net8.0\Infrastructure.pdb
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\appsettings.Development.json
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\appsettings.json
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.exe
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.deps.json
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.runtimeconfig.json
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.pdb
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Humanizer.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\MediatR.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Npgsql.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\System.CodeDom.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Application.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Domain.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Infrastructure.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Application.pdb
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Domain.pdb
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\Infrastructure.pdb
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.csproj.AssemblyReference.cache
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.AssemblyInfoInputs.cache
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.AssemblyInfo.cs
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.csproj.CoreCompileInputs.cache
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.build.json
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.development.json
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets\msbuild.BookManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.BookManagement.props
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookManagement.props
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookManagement.props
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\scopedcss\bundle\BookManagement.styles.css
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\BookMana.AEF0CC0B.Up2Date
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\refint\BookManagement.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.pdb
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.genruntimeconfig.cache
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\obj\Debug\net8.0\ref\BookManagement.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\BookManagement\bin\Debug\net8.0\AutoMapper.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\appsettings.Development.json
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\appsettings.json
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.exe
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.deps.json
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.runtimeconfig.json
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.pdb
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\AutoMapper.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Humanizer.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\MediatR.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Npgsql.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\System.CodeDom.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Application.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Domain.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Infrastructure.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Application.pdb
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Domain.pdb
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\bin\Debug\net8.0\Infrastructure.pdb
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.csproj.AssemblyReference.cache
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.AssemblyInfoInputs.cache
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.AssemblyInfo.cs
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.csproj.CoreCompileInputs.cache
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.build.json
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.development.json
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets\msbuild.BookManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.BookManagement.props
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookManagement.props
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookManagement.props
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\scopedcss\bundle\BookManagement.styles.css
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\BookMana.AEF0CC0B.Up2Date
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\refint\BookManagement.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.pdb
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.genruntimeconfig.cache
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\BookManagement\obj\Debug\net8.0\ref\BookManagement.dll

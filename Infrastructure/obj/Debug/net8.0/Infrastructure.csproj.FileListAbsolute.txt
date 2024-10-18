@@ -1,0 +1,51 @@
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Facultate\Semestrul 5\.NET\BookManagement\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

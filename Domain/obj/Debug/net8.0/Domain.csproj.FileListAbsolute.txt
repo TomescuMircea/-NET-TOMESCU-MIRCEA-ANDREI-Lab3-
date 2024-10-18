@@ -1,0 +1,33 @@
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Domain\bin\Debug\net8.0\Domain.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Domain\obj\Debug\net8.0\Domain.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Documents\Facultate\Discipline\Anul 3\Semestrul I\Introducere in .NET\Curs\Course3\BookManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Facultate\Semestrul 5\.NET\BookManagement\Domain\bin\Debug\net8.0\Domain.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Facultate\Semestrul 5\.NET\BookManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Semestrul 5\.NET\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Facultate\Semestrul 5\.NET\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Facultate\Semestrul 5\.NET\BookManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Facultate\Semestrul 5\.NET\BookManagement\Domain\obj\Debug\net8.0\Domain.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Facultate\Semestrul 5\.NET\BookManagement\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Facultate\Semestrul 5\.NET\BookManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Domain\bin\Debug\net8.0\Domain.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Domain\obj\Debug\net8.0\Domain.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Facultate\Semestrul 5\.NET\Curs3&Lab3\BookManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
